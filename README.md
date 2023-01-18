@@ -6,6 +6,6 @@ Online hateful discourse is an infant issue in our cutting edge society which is
 
 # Instructions
 
-1. There are three .ipynb files insise the code directory namely LSTM.ipynb, Bi-LSTM.ipynb, Bi-LSTM+CNN.ipynb. Y
-2. You can either run it directly on Google Colab or download the Jupyter Notebook to run on your local PC.
+1. There are three .ipynb files inside the code directory namely LSTM.ipynb, Bi-LSTM.ipynb, Bi-LSTM+CNN.ipynb. 
+2. You can either run it directly on Google Colab or download the Jupyter Notebooks to run on your local PC.
 2. The dataset is taken from Kaggle Competition [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
